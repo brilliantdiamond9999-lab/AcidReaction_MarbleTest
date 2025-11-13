@@ -1,0 +1,22 @@
+{
+  "id": "neuraverse-acid-marble-001",
+  "title": "Acid Marble Experiment",
+  "author": "Fatemeh - NEURAVERSE Academy",
+  "summary": "Observe chemical reaction of acids on marble and plant leaves to teach multi-disciplinary STEM concepts.",
+  "keywords": ["acid", "marble", "CO2", "reaction", "STEM", "micro-asset"],
+  "disciplines": ["Chemistry", "Classical Physics", "Quantum Physics", "Mathematics", "Biology", "Materials Science"],
+  "age_range": "10–15",
+  "difficulty": "Beginner–Intermediate",
+  "estimated_time_minutes": 45,
+  "equipment": ["cups", "marble", "water", "vinegar", "HCl", "plant leaf", "cotton swab", "tweezers", "pH paper", "gloves", "goggles"],
+  "safety_level": "Medium",
+  "learning_objectives": [
+    "Identify chemical reaction differences between substances",
+    "Understand density, mass change, and gas release",
+    "Observe effect of acid on organic and inorganic material",
+    "Practice scientific observation and recording"
+  ],
+  "license": "CC-BY-NC-4.0",
+  "date_created": "2025-11-13",
+  "version": "0.1.0"
+}
